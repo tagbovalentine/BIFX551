@@ -38,5 +38,20 @@ Reading assignments for each week should be read prior to class. Links are provi
 Date | Topic | Resources | Exercise
 -----|-------|-----------|---------
 Jan 15 | Welcome, Git/Github, R markdown | |
-Jan 22 | R markdown, Basic R: man pages, data frames, basic functions | |
+Jan 22 | R markdown, Basic R: man pages, data frames, factor variables, basic functions | |
 Jan 29 | Basic R: Importing .txt and .csv, using packages | |
+Feb 5 | Basic R: manipulating data frames, plotting data | |
+Feb 12 | R packages: knitr | |
+Feb 19 | R packages: dplyr/tidyverse | |
+Feb 26 | R packages: dplyr/tidyverse | |
+Mar 4 | R packages: ggplot2 | | Project 1: Summary Report
+Mar 11 | R packages: stats | | 
+Mar 18 | Functions and scripts | |
+Mar 25 | Making an R package | |
+Apr 1 | Making an R package | | Project 2: R package
+Apr 8 | Regression analysis with R, linear regression | |
+Apr 15 | Regression analysis with R, logistic regression | |
+Apr 22 | The frontend: R shiny | |
+Apr 29 | The frontend: R  shiny | | Project 3: Shiny app
+May 6 | Share projects| |
+
