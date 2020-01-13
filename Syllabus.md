@@ -10,9 +10,9 @@ This class provides an introduction to programming for bioinformatics, with a fo
 -	Office Hours: In-person office hours will be held Wednesdays immediately after class. Appointments can be made for other times as needed.
 -	Prerequisites: BIFX 501 or BIFX 502
 -	Textbooks:
-  –	[R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
-  –	[R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
-  - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
+  *	[R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
+  *	[R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
+  * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
 -	GitHub will be used for submitting homework and projects. Once you have created a GitHub account, you will be given access to our course repository.
 -	Updates on your course grade will be posted periodically on Blackboard.
 
@@ -28,9 +28,9 @@ On completion of this course, students should be comfortable with the following:
 - Homework (25%): Short reading assignments and exercises that reinforce what we discuss in class.
 - In-class participation (25%): Engaging during class with the exercises and collaborating well with fellow students.
 -	Course Projects (50%): There will be three larger projects that apply the individual concepts covered in class, homework, and readings.
-  - Create a reproducible report from a biological dataset (20%) 
-  - Write an  R package (15%)
-  - Create an app with R shiny (15%).
+  * Create a reproducible report from a biological dataset (20%) 
+  * Write an  R package (15%)
+  * Create an app with R shiny (15%).
 
 ### Tentative Schedule
 Reading assignments for each week should be read prior to class. Links are provided to online resources when available.
