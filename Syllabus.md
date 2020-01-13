@@ -10,9 +10,9 @@ This class provides an introduction to programming for bioinformatics, with a fo
 -	Office Hours: In-person office hours will be held Wednesdays immediately after class. Appointments can be made for other times as needed.
 -	Prerequisites: BIFX 501 or BIFX 502
 -	Textbooks:
-  –	[https://r4ds.had.co.nz/index.html](R for Data Science) by Garrett Grolemund and Hadley Whickam
-  –	(http://r-pkgs.had.co.nz/)[R Packages] by Hadley Wickham
-  - (https://bookdown.org/yihui/rmarkdown/)[R Markdown: The Definitive Guide] by Yihui Xie, J. J. Allaire, and Garrett Grolemund
+  –	[R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
+  –	[R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
+  - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
 -	GitHub will be used for submitting homework and projects. Once you have created a GitHub account, you will be given access to our course repository.
 -	Updates on your course grade will be posted periodically on Blackboard.
 
@@ -35,3 +35,8 @@ On completion of this course, students should be comfortable with the following:
 ### Tentative Schedule
 Reading assignments for each week should be read prior to class. Links are provided to online resources when available.
 
+Date | Topic | Resources | Exercise
+-----|-------|-----------|---------
+Jan 15 | Welcome, Git/Github, R markdown | |
+Jan 22 | R markdown, Basic R: man pages, data frames, basic functions | |
+Jan 29 | Basic R: Importing .txt and .csv, using packages | |
