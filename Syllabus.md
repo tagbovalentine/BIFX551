@@ -28,9 +28,9 @@ On completion of this course, students should be comfortable with the following:
 - Homework (25%): Short reading assignments and exercises that reinforce what we discuss in class.
 - In-class participation (25%): Engaging during class with the exercises and collaborating well with fellow students.
 -	Course Projects (50%): There will be three larger projects that apply the individual concepts covered in class, homework, and readings.
-  * Create a reproducible report from a biological dataset (20%) 
-  * Write an  R package (15%)
-  * Create an app with R shiny (15%).
+    - Create a reproducible report from a biological dataset (20%) 
+    - Write an  R package (15%)
+    - Create an app with R shiny (15%).
 
 ### Tentative Schedule
 Reading assignments for each week should be read prior to class. Links are provided to online resources when available.
