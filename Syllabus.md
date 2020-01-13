@@ -6,15 +6,15 @@
 
 This class provides an introduction to programming for bioinformatics, with a focus on programming in R and tools to communicate and develop your code. Emphasis will be placed on good development practices and reproducible research. Significant time will be spent learning to program within an integrated development environment, cleaning, visualizing, and analyzing data.
 
--	Instructor: Chris Malec, PhD
--	Office Hours: In-person office hours will be held Wednesdays immediately after class. Appointments can be made for other times as needed.
--	Prerequisites: BIFX 501 or BIFX 502
--	Textbooks:
-  *	[R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
-  *	[R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
-  * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
--	GitHub will be used for submitting homework and projects. Once you have created a GitHub account, you will be given access to our course repository.
--	Updates on your course grade will be posted periodically on Blackboard.
+*	Instructor: Chris Malec, PhD
+*	Office Hours: In-person office hours will be held Wednesdays immediately after class. Appointments can be made for other times as needed.
+*	Prerequisites: BIFX 501 or BIFX 502
+*	Textbooks:
+ *	[R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
+ *	[R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
+ * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
+*	GitHub will be used for submitting homework and projects. Once you have created a GitHub account, you will be given access to our course repository.
+*	Updates on your course grade will be posted periodically on Blackboard.
 
 ### Learning Objectives
 On completion of this course, students should be comfortable with the following:
