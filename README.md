@@ -47,9 +47,9 @@ This course is intended to be accessible for all students, including those with 
 ### Tentative Schedule
 Reading assignments for each week should be read prior to class. Links are provided to online resources when available.
 
-Date | Topic | Resources | Exercise/Reading
+Date | Topic | Reading | Exercise
 -----|-------|-----------|---------
-Jan 15 | Welcome, Git/Github, R markdown | | Read: [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html)
+Jan 15 | Welcome, Git/Github, R markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html) | Fork the class repository, create a new markdown file called "your_name_week1.md" and write a short explanation of why you are in the bioinformatics program. Use a list, a picture, a link, and a table. Then send me a pull request. 
 Jan 22 | R markdown, Basic R: man pages, data frames, factor variables, basic functions | |
 Jan 29 | Basic R: Importing .txt and .csv, using packages | |
 Feb 5 | Basic R: manipulating data frames, plotting data | |
