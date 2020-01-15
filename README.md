@@ -47,9 +47,9 @@ This course is intended to be accessible for all students, including those with 
 ### Tentative Schedule
 Reading assignments for each week should be read prior to class. Links are provided to online resources when available.
 
-Date | Topic | Resources | Exercise
+Date | Topic | Resources | Exercise/Reading
 -----|-------|-----------|---------
-Jan 15 | Welcome, Git/Github, R markdown | |
+Jan 15 | Welcome, Git/Github, R markdown | | Read: [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html)
 Jan 22 | R markdown, Basic R: man pages, data frames, factor variables, basic functions | |
 Jan 29 | Basic R: Importing .txt and .csv, using packages | |
 Feb 5 | Basic R: manipulating data frames, plotting data | |
