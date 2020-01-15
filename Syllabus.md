@@ -32,12 +32,12 @@ On completion of this course, students should be comfortable with the following:
     - Create an app with R shiny (15%).
 
 - Attendance is not an explicit part of your grade, however your attendance is critical to your success.
-- If you must miss a class, getting notes from a classmate is your responsibility. 
-- More than three unexcused absences will drop your final grade by one letter grade. 
+        - If you must miss a class, getting notes from a classmate is your responsibility. 
+        - More than three unexcused absences will drop your final grade by one letter grade. 
 
 ### Academic Integrity:
 
-You are expected to abide by the honor code and include it on your assignments. All work you turn in should be your own, or the work of your group in the case of a group project. Collaboration is not allowed on any exams. \textbf{Googling solutions counts as unauthorized help!} If you have any questions about what is acceptable help, ask me.
+You are expected to abide by the honor code and include it on your assignments. All work you turn in should be your own, or the work of your group in the case of a group project.  If you have any questions about what is acceptable help, ask me.
 
 ### Accommodations for Disabilities: 
 
@@ -57,7 +57,7 @@ Feb 12 | R packages: knitr | |
 Feb 19 | R packages: dplyr/tidyverse | |
 Feb 26 | R packages: dplyr/tidyverse | |
 Mar 4 | R packages: ggplot2 | | Project 1: Summary Report
-Mar 11 | R packages: stats | | 
+Mar 11 | Spring Recess | | 
 Mar 18 | Functions and scripts | |
 Mar 25 | Making an R package | |
 Apr 1 | Making an R package | | Project 2: R package
