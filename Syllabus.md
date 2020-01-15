@@ -12,7 +12,7 @@ This class provides an introduction to programming for bioinformatics, with a fo
     * [R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
     * [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
     * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
-- GitHub will be used for submitting homework and projects. Once you have created a GitHub account, you will be given access to our course repository.
+- GitHub will be used for submitting homework and projects.
 -	Updates on your course grade will be posted periodically on Blackboard.
 
 ### Learning Objectives
