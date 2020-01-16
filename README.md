@@ -36,6 +36,7 @@ On completion of this course, students should be comfortable with the following:
         - More than three unexcused absences will drop your final grade by one letter grade. 
 
 - The grading scale is as follows:
+
 Letter Grade | Final Percentage
 -------------|-----------------
 A | 94-100%
