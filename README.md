@@ -35,6 +35,18 @@ On completion of this course, students should be comfortable with the following:
         - If you must miss a class, getting notes from a classmate is your responsibility. 
         - More than three unexcused absences will drop your final grade by one letter grade. 
 
+- The grading scale is as follows:
+Letter Grade | Final Percentage
+-------------|-----------------
+A | 94-100%
+A- | 90 - 93.99%
+B+ | 87 - 89.99%
+B | 83 - 86.99%
+B- | 80 - 82.99%
+C+ | 77-79.99%
+C | 73 - 76.99%
+C- | 70-72.99%
+F | < 70%
 ### Academic Integrity:
 
 You are expected to abide by the honor code and include it on your assignments. All work you turn in should be your own, or the work of your group in the case of a group project.  If you have any questions about what is acceptable help, ask me.
@@ -49,21 +61,21 @@ Reading assignments for each week should be read prior to class. Links are provi
 
 Date | Topic | Reading | Exercise
 -----|-------|-----------|---------
-Jan 15 | Welcome, Git/Github, R markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html) | Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why you are in the bioinformatics program. Use a list, a picture, a link, and a table. Then send me a pull request. 
-Jan 22 | R markdown, Basic R: man pages, data frames, factor variables, basic functions | |
-Jan 29 | Basic R: Importing .txt and .csv, using packages | |
-Feb 5 | Basic R: manipulating data frames, plotting data | |
-Feb 12 | R packages: knitr | |
-Feb 19 | R packages: dplyr/tidyverse | |
+Jan 21 | Welcome, Git/Github, R markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html) | Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why you are in the bioinformatics program. Use a list, a picture, a link, and a table. Then send me a pull request. 
+Jan 28 | Basic R: man pages, data frames, factor variables, basic functions | |
+Feb 4 | Basic R: Importing .txt and .csv, using packages | |
+Feb 11 | Basic R: manipulating data frames, plotting data | |
+Feb 18 | R packages: knitr | |Start Project 1
+Feb 25 | R packages: dplyr/tidyverse | |
 Feb 26 | R packages: dplyr/tidyverse | |
-Mar 4 | R packages: ggplot2 | | Project 1: Summary Report
-Mar 11 | Spring Recess | | 
-Mar 18 | Functions and scripts | |
-Mar 25 | Making an R package | |
-Apr 1 | Making an R package | | Project 2: R package
-Apr 8 | Regression analysis with R, linear regression | |
-Apr 15 | Regression analysis with R, logistic regression | |
-Apr 22 | The frontend: R shiny | |
-Apr 29 | The frontend: R  shiny | | Project 3: Shiny app
-May 6 | Share projects| |
+Mar 3 | R packages: ggplot2 | | Project 1: Summary Report Due
+Mar 10 | Spring Recess | | 
+Mar 17 | Unix environments and running scripts | |
+Mar 24 | Making an R package | |
+Mar 31 | Making an R package | | 
+Apr 7 | Regression analysis with R, linear regression | |Project 2: R package Due
+Apr 14 | Regression analysis with R, logistic regression | |
+Apr 21 | The frontend: R shiny | |
+Apr 28 | The frontend: R  shiny | |
+May 5 | Share projects| | Project 3: Shiny app Due
 
