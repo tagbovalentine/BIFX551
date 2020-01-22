@@ -63,7 +63,7 @@ Reading assignments for each week should be read prior to class. Links are provi
 
 Date | Topic | Reading | Exercise
 -----|-------|-----------|---------
-Jan 21 | Welcome, Git/Github, R markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html) | Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why you are in the bioinformatics program. Use a list, a picture, a link, and a table. Then send me a pull request. 
+Jan 21 | Welcome, Git/Github, R markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html) | Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why you are in the bioinformatics program. Use a list, a picture, a link, and a table. Then send me a pull request. [GitHub Flow](https://guides.github.com/introduction/flow/)
 Jan 28 | Basic R: man pages, data frames, factor variables, basic functions | |
 Feb 4 | Basic R: Importing .txt and .csv, using packages | |
 Feb 11 | Basic R: manipulating data frames, plotting data | |
