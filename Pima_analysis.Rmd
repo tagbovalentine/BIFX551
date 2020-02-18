@@ -1,0 +1,98 @@
+---
+title: "The Pima, Framingham, datasets"
+author: "Valentine Tagbo"
+date: "2/18/2020"
+output: html_document
+---
+
+
+```{r}
+#1.This dataset contains studies conducted on pima American Indians from the state of Arizona.
+#The dataset contain 9 numeric integer variables and 769 observations.
+#The most interesting thing that I found about the Pima dataset that was originally obtained from 
+#the National Institute of Diabetes and Digestive and Kidney Diseases was that the subjects that 
+#observed were of the same ethnicity and their diets seem to be virtuallly identicle.
+
+#2.The difficulty that might arise as a result of analyzing this dataset is that one cannot certainly 
+#narrow the cause of diabetes amoung pima perople to a single variable. There might be more than
+#one variable in concert with each other that could potentially contribute to the diagnosis of 
+#diabetes among this group.
+
+#3. QUESTION: What is the major predictor of diabetes among the pima people from the 9 variables under study?
+
+df_pimadiabetes <- read.csv('pima_diabetes.csv', header=TRUE)
+str(df_pimadiabetes)
+head(df_pimadiabetes)
+```
+```{r}
+summary(df_pimadiabetes)
+
+```
+
+```{r}
+# The scatter plot of Crude.Birth.Rate as a function of Year
+
+plot(df_pimadiabetes$Glucose, 
+     df_pimadiabetes$Pregnancies,
+     xlab = "Glucose",
+     ylab = "Number of Pregnacies",
+     col = "blue",
+     main = "Graph of Pregnacies as a Function of Glucose")
+
+
+plot(df_pimadiabetes$Glucose, 
+     df_pimadiabetes$BloodPressure,
+     xlab = "Glucose",
+     ylab = "Blood Presure",
+     col = "green",
+     main = "Graph of Blood Pressure as a Function of Glucose")
+
+
+plot(df_pimadiabetes$Glucose, 
+     df_pimadiabetes$BMI,
+     xlab = "Glucose",
+     ylab = "Body Mass Index",
+     col = "red",
+     main = "Graph of BMI as a Function of Glucose")
+```
+
+##########################################################################################################################################################################################################################
+
+```{r}
+###The framingham dataset dontain 16 numeric/integer variables and 4240 observations. The dataset
+###contain some missing values represented with NA's. The dataset also contain categorical variable 
+####and continuous varibles.
+###What I found to be very intriguing is that the study span a period of 3 generations after 
+###original cohorts recruited in Framingham, MA. The researchers focussed on the leading cause of
+###death in the United States till date.
+
+#####Question: What are the factors that are mostly corrlated to increased risk of Cardiovascular diseases.
+
+df_framingham <- read.csv('framingham.csv', header=TRUE)
+str(df_framingham)
+head(df_framingham)
+summary(df_framingham)
+df_framingham$male[df_framingham$male==0]<-"female"
+df_framingham$male[df_framingham$male==1]<-"male"
+
+
+count <- table(df_framingham$male)
+barplot(count,col= "cyan")
+
+
+hist(df_framingham$age,
+      main='The Histogram of Age',
+      xlab = 'Age when the Subjects Were First Examined',
+      ylab = 'Frequency',
+      breaks=5,
+      col="lightgreen",
+      border="darkgreen")
+
+boxplot(df_framingham$BMI ~ df_framingham$cigsPerDay,
+     xlab = "Number of Cigarettes Smoked Per Day",
+     ylab = "Body Mass Index",
+     col = "red",
+     main = "Graph of BMI as a Function of Cigarattes")
+
+
+
